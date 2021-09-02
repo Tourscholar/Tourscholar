@@ -7,6 +7,7 @@
 
 - 🔭 I’m a student
 - 🌱 I’m currently learning Java, Vue, and JS
+- - ⚡ Fun fact: No move, No change
 <!-- 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -14,5 +15,3 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 -->
-
-- ⚡ Fun fact: No move, No change
