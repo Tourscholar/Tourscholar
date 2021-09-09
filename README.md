@@ -6,7 +6,7 @@
 <!-- Here are some ideas to get you started: -->
 
 - 🔭 I’m a student
-- 🌱 I’m currently learning Java, Vue, and JS
+- 🌱 I’m currently learning Java, JS and Vue
 - ⚡ Fun fact: No move, No change
 <!-- 
 - 👯 I’m looking to collaborate on ...
