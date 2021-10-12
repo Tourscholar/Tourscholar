@@ -73,7 +73,7 @@ Seoul National University of Science and Technology, 232 Gongneung-ro, Gongneung
 </p> -->
 
 <br>
-<h3 align="center">🏅 Awards 🏅</h3>
+<!-- <h3 align="center">🏅 Awards 🏅</h3>
 <br>
 <br>    
 <br>
@@ -81,7 +81,7 @@ Seoul National University of Science and Technology, 232 Gongneung-ro, Gongneung
 <br>
 <h3 align="center">🌏 Activity 🌏</h3>
 <br>
-
+ -->
 <br>
 <p align="center">
 
