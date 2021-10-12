@@ -22,7 +22,7 @@
 
 
 <br>
-<h2 align="center">💜 Me 💜</h2>
+<h2 align="center">💜 About Me 💜</h2>
 <p align="center">
     <a href="https://www.krjeol.com/">
         <img src="http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github"/>
