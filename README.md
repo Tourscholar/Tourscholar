@@ -24,13 +24,10 @@
 <br>
 <h2 align="center">💜 Me 💜</h2>
 <p align="center">
-    <a href="https://eboong.tistory.com/">
+    <a href="https://www.krjeol.com/">
         <img src="http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github"/>
     </a>
-    <a href="https://www.linkedin.com/in/%EC%A0%95%EC%9D%B8-%EC%97%B0-093682204/">
-        <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white"/>
-    </a>
-    <a href="mailto:0206dus@gmail.com">
+    <a href="mailto:krj1608178365@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white"/>
     </a>
 </p>
