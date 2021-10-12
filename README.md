@@ -103,12 +103,12 @@ Seoul National University of Science and Technology, 232 Gongneung-ro, Gongneung
 
 
 <br>
-<h2 align="center">📍 Cards-Problem Solving 📍</h2>
+<!-- <h2 align="center">📍 Cards-Problem Solving 📍</h2>
 <p align="center">
     <a href="https://solved.ac/dswjddls/">
         <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dswjddls"/>
     </a>
-</p>
+</p> -->
 <br>
 
 
