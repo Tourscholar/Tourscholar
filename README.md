@@ -42,16 +42,16 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp 
   <br>
-  <img src="https://img.shields.io/badge/HTML-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/HTML-ffb13b?style=flat-square&logo=HTML&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Javascript-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Javascript-E6B91E?style=flat-square&logo=Javascript&logoColor=white"/></a>&nbsp 
 </p>
 <br>
 
 <br>
 <h2 align="center">🎓 Education 🎓</h2>
 <p align="center">
-Seoul National University of Science and Technology, 232 Gongneung-ro, Gongneung-dong, Nowon-gu, seoul, South Korea —  &nbsp; <em>Bachelor of Computer Science &nbsp;   MAR  2019 - FEB  2021</em>
+Seoul National University of Science and Technology, 232 Gongneung-ro, Gongneung-dong, Nowon-gu, seoul, South Korea —  &nbsp; <em>Bachelor of Computer Science &nbsp;   MAR  2019 - FEB  2022</em>
 </p>   
 
 <br>
