@@ -95,9 +95,9 @@ Seoul National University of Science and Technology, 232 Gongneung-ro, Gongneung
     <a href="https://github.com/Tourscholar/">
         <img src="https://github-readme-stats.vercel.app/api?username=Tourscholar&theme=radical"/>
     </a>
-    <a href="https://github.com/Tourscholar/">
+<!--     <a href="https://github.com/Tourscholar/">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tourscholar&layout=compact&theme=radical"/>
-    </a>
+    </a> -->
 </p>
 <br>
 
