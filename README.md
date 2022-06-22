@@ -7,7 +7,7 @@
 
 - 🔭 I’m a student
 - 🌱 I’m currently learning Vue.js and React.js(I like everything about front-end development)
-- ⚡ Fun fact: [My personal blog](https://www.krjeol.com/)
+- ⚡ Fun fact: [My personal blog](https://juejin.cn/user/1275886876513560)
 <!-- 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
