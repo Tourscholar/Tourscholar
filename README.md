@@ -3,20 +3,9 @@
 <!--
 **Tourscholar/Tourscholar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-<!-- Here are some ideas to get you started: -->
 
 - 🔭 I’m a student
 - 🌱 I’m currently learning Vue.js and React.js(I like everything about front-end development)
-- ⚡ Fun fact: [My personal blog](https://juejin.cn/user/1275886876513560)
-<!-- 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
--->
-
-
 
 ![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=200&section=header&text=Tourscholar%20🌱&fontSize=70&fontColor=1C1C1C&animation=fadeIn&descAlign=20)
 
@@ -24,9 +13,9 @@
 <br>
 <h2 align="center">💜 About Me 💜</h2>
 <p align="center">
-    <a href="https://www.krjeol.com/">
-        <img src="http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github"/>
-    </a>
+    <a href="https://juejin.cn/user/1275886876513560">
+        <img src="https://lf3-cdn-tos.bytescm.com/obj/static/xitu_juejin_web/6c61ae65d1c41ae8221a670fa32d05aa.svg"/>
+    </a>&nbsp;
     <a href="mailto:krj1608178365@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white"/>
     </a>
@@ -51,27 +40,25 @@
 <br>
 <h2 align="center">🎓 Education 🎓</h2>
 <p align="center">
-Seoul National University of Science and Technology, 232 Gongneung-ro, Gongneung-dong, Nowon-gu, seoul, South Korea —  &nbsp; <em>Bachelor of Computer Science &nbsp;   MAR  2019 - FEB  2022</em>
+Seoul National University of Science and Technology, 232 Gongneung-ro, Gongneung-dong, Nowon-gu, seoul, South Korea —  &nbsp; <em>Bachelor of Computer Science &nbsp;   MAR  2019 - FEB  2023</em>
 </p>   
 
 <br>
 <h2 align="center">🙆‍♀️ Other Experience 🙆‍♀️</h2>
 <h3 align="center"> 📝Project </h3>
-<!-- <h4 align="center"><b>School Project</b></h4>
+<h4 align="center"><b>Personal Project</b></h4>
 <p align="center">
-- ERP Program in C#, 2020
+- auner in rust, typescript, vite on 2023
 <br>
-- Shopping Website in HTML, CSS, JS, 2019
+<h4 align="center"><b>School Project</b></h4>
+<p align="center">
+- library-management-system in java, mysql on 2022
+<br>
+- todo-aoo in Vue, nodejs on 2021
+<br>
+- web tuner in javascript, wasm, 2020
+<br>
 </p>
-<br> -->
-
-<!-- <h4 align="center"><b>Toy Project</b></h4>
-<p align="center">        
-- Virtual Currency bid and ask program in python, 2021
-<br>
-- Making Thumbnail image program in python, 2020
-</p> -->
-
 <br>
 <!-- <h3 align="center">🏅 Awards 🏅</h3>
 <br>
@@ -102,11 +89,4 @@ Seoul National University of Science and Technology, 232 Gongneung-ro, Gongneung
 <br>
 
 
-<br>
-<!-- <h2 align="center">📍 Cards-Problem Solving 📍</h2>
-<p align="center">
-    <a href="https://solved.ac/dswjddls/">
-        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dswjddls"/>
-    </a>
-</p> -->
 <br>
