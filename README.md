@@ -4,8 +4,7 @@
 **Tourscholar/Tourscholar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I’m a student
-- 🌱 I’m currently learning Vue.js and React.js(I like everything about front-end development)
+- 🔭 front-end developer
 
 ![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=200&section=header&text=Tourscholar%20🌱&fontSize=70&fontColor=1C1C1C&animation=fadeIn&descAlign=20)
 
